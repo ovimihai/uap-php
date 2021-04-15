@@ -4,6 +4,7 @@
 [![Latest Stable Version](https://poser.pugx.org/ua-parser/uap-php/v/stable)](https://packagist.org/packages/ua-parser/uap-php)
 [![Total Downloads](https://poser.pugx.org/ua-parser/uap-php/downloads)](https://packagist.org/packages/ua-parser/uap-php)
 [![License](https://poser.pugx.org/ua-parser/uap-php/license)](https://packagist.org/packages/ua-parser/uap-php)
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/ovimihai/uap-php)
 
 This is the PHP library for the [uap-core](https://github.com/ua-parser/uap-core) project.
 
